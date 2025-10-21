@@ -1,5 +1,3 @@
-document.getElementById("sapa")
-
 function sapaSaya() {
-    if 
+    alert("Halo, Rafi Abdillah Fairuz! Semoga harimu menyenangkan!");
 }
